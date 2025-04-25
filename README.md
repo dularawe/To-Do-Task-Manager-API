@@ -48,7 +48,7 @@ A simple and scalable RESTful API for managing to-do tasks. Built using **.NET C
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/todo-task-manager-api.git
+git clone https://github.com/dularawe/todo-task-manager-api.git
 cd todo-task-manager-api
 
 # For .NET
